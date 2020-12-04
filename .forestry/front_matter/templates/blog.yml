@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: blog
+pages:
+- content/hi.md
